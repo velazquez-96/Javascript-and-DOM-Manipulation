@@ -1,7 +1,8 @@
 let tableData = data;
 
 /**
- * Function to show initial data
+ * Function to show initial data from the object
+ * Append rows and data
  * @param {array} array 
  */
 function table(array){
@@ -68,6 +69,7 @@ function search(){
     // If statements according to user input
     if(filteredTable.length===0){
         clearBody();
+        // If no results found display a message
         d3.select("tbody").html("<h3>No results found</h3>");
     }else{
         clearBody();
