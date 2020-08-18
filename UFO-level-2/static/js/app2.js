@@ -95,7 +95,6 @@ function filterTable() {
 table(tableData);
 
 // D3 to select buttons and form
-//d3.select("#button").on("click", filterTable);
 d3.select("#buttonClear").on("click", clearInputs);
 
 // Attach an event to listen for changes to each filter
