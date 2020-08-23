@@ -1,2 +1,8 @@
-# javascript-challenge
-Javascript assignment
+# Javascript and DOM manipulation
+
+## Features
+
+## Built with
+
+
+## Outcomes
