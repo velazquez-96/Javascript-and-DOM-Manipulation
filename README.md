@@ -1,7 +1,7 @@
 # Javascript and DOM manipulation
 
 The project is focused on the following points:
-* Writing a javascript code that will create a table dynamically based upon a [dataset](UFO-level-2/static/js/data.js)
+* Writing a javascript code that create a table dynamically based upon a [dataset](UFO-level-2/static/js/data.js)
 * Allow users to filter the table data for specific values(multiple filters).
 
 ## Features
@@ -18,5 +18,7 @@ The project is focused on the following points:
 * Bootstrap
 
 ## Outcomes
+
+Here you can check the functionality of the website
 
 ![Table-UFO.gif](Images/Table-UFO.gif)
